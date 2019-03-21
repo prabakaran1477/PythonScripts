@@ -1,5 +1,5 @@
 print('Script Initiated')
-file_name = 'D:/python_RnD/nlp_whatsapp/argusmedia.txt'
+file_name = 'D:/python_RnD/nlp_whatsapp/media.txt'
 input_file = 'D:/python_RnD/nlp_whatsapp/input_file.txt'
 word_count_filename = 'D:/python_RnD/nlp_whatsapp/word_count.csv'
 
